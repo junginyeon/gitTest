@@ -54,11 +54,11 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(53, 160);
+            this.button3.Location = new System.Drawing.Point(53, 155);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(137, 48);
             this.button3.TabIndex = 2;
-            this.button3.Text = "a로작업(4:48) 커밋만";
+            this.button3.Text = "master로작업(4:54) 커밋만";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // Form1
