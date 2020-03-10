@@ -66,7 +66,7 @@
             // 
             this.button4.Location = new System.Drawing.Point(53, 209);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(137, 48);
+            this.button4.Size = new System.Drawing.Size(244, 48);
             this.button4.TabIndex = 3;
             this.button4.Text = "a로작업(5:01) 커밋만";
             this.button4.UseVisualStyleBackColor = true;
